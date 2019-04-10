@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Act10_calculadora</string>
+    <string name="module">module</string>
+    <string name="add">add</string>
+    <string name="multiplication">multiplication</string>
+    <string name="init_value">init_value</string>
+    <string name="init">init</string>
+    <string name="number1">number1</string>
+    <string name="result">result</string>
+    <string name="number2">number2</string>
+    <string name="division">division</string>
+    <string name="rest">rest</string>
+</resources>
